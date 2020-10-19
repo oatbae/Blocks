@@ -13,6 +13,8 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 yahoo.com
+0.0.0.0 mega.nz
 0.0.0.0 vimeo.com
 0.0.0.0 01streamingvf.ws
 0.0.0.0 0349cn.com
