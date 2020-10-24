@@ -13,6 +13,15 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 cambitch.com
+0.0.0.0 cambitches.com
+0.0.0.0 youyou6.tv
+0.0.0.0 youyou5.tv
+0.0.0.0 8yaose.com
+0.0.0.0 8yettt.com
+0.0.0.0 lubbduu.com
+0.0.0.0 squye.com
+0.0.0.0 av334.com
 0.0.0.0 bitchesgirls.com
 0.0.0.0 tgstat.ru
 0.0.0.0 yahoo.com
