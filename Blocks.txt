@@ -13,10 +13,21 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 qingsedg.com
+0.0.0.0 ooxxsaosao.com
+0.0.0.0 mmhensese.com
 0.0.0.0 cambitch.com
 0.0.0.0 cambitches.com
 0.0.0.0 youyou6.tv
 0.0.0.0 youyou5.tv
+0.0.0.0 youyou7.tv
+0.0.0.0 youyou8.tv
+0.0.0.0 youyou9.tv
+0.0.0.0 youyou0.tv
+0.0.0.0 youyou1.tv
+0.0.0.0 youyou2.tv
+0.0.0.0 youyou3.tv
+0.0.0.0 youyou4.tv
 0.0.0.0 8yaose.com
 0.0.0.0 8yettt.com
 0.0.0.0 lubbduu.com
