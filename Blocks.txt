@@ -13,6 +13,11 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 38laopo.com
+0.0.0.0 av5567.com
+0.0.0.0 37aiav.com
+0.0.0.0 mav70.com
+0.0.0.0 av554.com
 0.0.0.0 33xxkk.com
 0.0.0.0 kkhh99.com
 0.0.0.0 ddxx88.com
