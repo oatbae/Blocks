@@ -13,6 +13,21 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 av887.com
+0.0.0.0 bvb7.com
+0.0.0.0 av326.com
+0.0.0.0 601dyw.com
+0.0.0.0 944av.com
+0.0.0.0 mqq98.com
+0.0.0.0 av278.com
+0.0.0.0 96zcw.com
+0.0.0.0 av982.com
+0.0.0.0 605dyw.com
+0.0.0.0 600dyw.com
+0.0.0.0 3822b.com
+0.0.0.0 fzliwu.com
+0.0.0.0 av792.com
+0.0.0.0 58ycc.com
 0.0.0.0 38laopo.com
 0.0.0.0 av5567.com
 0.0.0.0 37aiav.com
