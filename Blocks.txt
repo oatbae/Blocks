@@ -13,6 +13,23 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 eaea1.com
+0.0.0.0 eaea2.com
+0.0.0.0 eaea4.com
+0.0.0.0 eaea5.com
+0.0.0.0 eaea6.com
+0.0.0.0 eaea7.com
+0.0.0.0 eaea8.com
+0.0.0.0 eaea9.com
+0.0.0.0 bhbh1.com
+0.0.0.0 bhbh2.com
+0.0.0.0 bhbh3.com
+0.0.0.0 bhbh4.com
+0.0.0.0 bhbh5.com
+0.0.0.0 bhbh6.com
+0.0.0.0 bhbh7.com
+0.0.0.0 bhbh8.com
+0.0.0.0 bhbh9.com
 0.0.0.0 av887.com
 0.0.0.0 bvb7.com
 0.0.0.0 av326.com
