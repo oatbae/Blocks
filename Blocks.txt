@@ -13,6 +13,24 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 xingseav.com
+0.0.0.0 8liwu.com
+0.0.0.0 nmgywxx.com
+0.0.0.0 pjylggtz.com
+0.0.0.0 yes5.vip
+0.0.0.0 vsco.co
+0.0.0.0 barstoolsports.com
+0.0.0.0 gramho.com
+0.0.0.0 xingseav0.com
+0.0.0.0 xingseav1.com
+0.0.0.0 xingseav2.com
+0.0.0.0 xingseav3.com
+0.0.0.0 xingseav4.com
+0.0.0.0 xingseav5.com
+0.0.0.0 xingseav6.com
+0.0.0.0 xingseav7.com
+0.0.0.0 xingseav8.com
+0.0.0.0 xingseav9.com
 0.0.0.0 eaea1.com
 0.0.0.0 eaea2.com
 0.0.0.0 eaea4.com
