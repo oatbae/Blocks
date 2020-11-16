@@ -13,6 +13,13 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 900xx.com
+0.0.0.0 cao111.com
+0.0.0.0 juju1.net
+0.0.0.0 cao777.com
+0.0.0.0 xyg2000.com
+0.0.0.0 eyaa.net
+0.0.0.0 915915.net
 0.0.0.0 xingseav.com
 0.0.0.0 8liwu.com
 0.0.0.0 nmgywxx.com
