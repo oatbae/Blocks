@@ -13,6 +13,14 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 070tt.com
+0.0.0.0 av999x.com
+0.0.0.0 av999a.com
+0.0.0.0 av999b.com
+0.0.0.0 av999c.com
+0.0.0.0 av999d.com
+0.0.0.0 av999e.com
+0.0.0.0 cao244.com
 0.0.0.0 900xx.com
 0.0.0.0 cao111.com
 0.0.0.0 juju1.net
