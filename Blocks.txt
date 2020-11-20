@@ -13,6 +13,16 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 010ff.com
+0.0.0.0 020ff.com
+0.0.0.0 030ff.com
+0.0.0.0 040ff.com
+0.0.0.0 050ff.com
+0.0.0.0 060ff.com
+0.0.0.0 070ff.com
+0.0.0.0 080ff.com
+0.0.0.0 090ff.com
+0.0.0.0 heu2.com
 0.0.0.0 070tt.com
 0.0.0.0 av999x.com
 0.0.0.0 av999a.com
