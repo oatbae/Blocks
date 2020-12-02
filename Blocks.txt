@@ -13,6 +13,20 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 youstream.com
+0.0.0.0 toleaks.com
+0.0.0.0 fansteek.com
+0.0.0.0 thottok.com
+0.0.0.0 realpornclip.com
+0.0.0.0 xsanp69.com
+0.0.0.0 ideepthroat.com
+0.0.0.0 ideeptube.com
+0.0.0.0 jav592.com
+0.0.0.0 hayko.tv
+0.0.0.0 38laopo.com
+0.0.0.0 51av51.com
+0.0.0.0 avai87.com
+0.0.0.0 jav529.com
 0.0.0.0 010ff.com
 0.0.0.0 020ff.com
 0.0.0.0 030ff.com
