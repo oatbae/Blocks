@@ -13,6 +13,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 026av.com
 0.0.0.0 156.237.155.80:8080
 0.0.0.0 50000sao.com
 0.0.0.0 privatesociety.com
