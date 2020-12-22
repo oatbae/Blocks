@@ -13,6 +13,27 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 free38.com
+0.0.0.0 free00.com
+0.0.0.0 freerrr.com
+0.0.0.0 2019papapa.com
+0.0.0.0 papapa188.com
+0.0.0.0 papapa288.com
+0.0.0.0 051av.com
+0.0.0.0 052av.com
+0.0.0.0 828ys.tv
+0.0.0.0 gxfcsm.com
+0.0.0.0 proxysite.cloud
+0.0.0.0 proxysite.com
+0.0.0.0 proxysite.one
+0.0.0.0 croxyproxy.com
+0.0.0.0 croxyproxy.rocks
+0.0.0.0 122ap.com
+0.0.0.0 225be.com
+0.0.0.0 gifdeliverynetwork.com
+0.0.0.0 cloudigirl.com
+0.0.0.0 teens.community
+0.0.0.0 xxb.mobi
 0.0.0.0 012av.com
 0.0.0.0 015av.com
 0.0.0.0 016av.com
