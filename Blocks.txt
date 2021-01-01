@@ -13,6 +13,9 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 phx.blewpass.com
+0.0.0.0 lv.blewpass.com
+0.0.0.0 ny.blewpass.com
 0.0.0.0 blewpass.com
 0.0.0.0 m.blewpass.com
 0.0.0.0 www.m.blewpass.com
