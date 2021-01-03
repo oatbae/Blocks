@@ -13,6 +13,8 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 hidemyass.com
+0.0.0.0 hidemyass-freeproxy.com
 0.0.0.0 phx.blewpass.com
 0.0.0.0 lv.blewpass.com
 0.0.0.0 ny.blewpass.com
