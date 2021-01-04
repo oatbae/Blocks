@@ -13,6 +13,12 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 www.erome.com
+0.0.0.0 http://erome.com
+0.0.0.0 https://erome.com
+0.0.0.0 http://proxysite.one
+0.0.0.0 https://proxysite.one
+0.0.0.0 proxysite.one
 0.0.0.0 hidemyass.com
 0.0.0.0 hidemyass-freeproxy.com
 0.0.0.0 phx.blewpass.com
