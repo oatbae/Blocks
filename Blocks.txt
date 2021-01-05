@@ -13,6 +13,10 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 gotanynudes.com
+0.0.0.0 thots.tv
+0.0.0.0 fapbest.com
+0.0.0.0 rentry.co 
 0.0.0.0 www.erome.com
 0.0.0.0 http://erome.com
 0.0.0.0 https://erome.com
