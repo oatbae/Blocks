@@ -13,6 +13,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 xvideo.mx
 0.0.0.0 flashxgirls.com
 0.0.0.0 sexynaked.me
 0.0.0.0 anonib.archivedme.com
