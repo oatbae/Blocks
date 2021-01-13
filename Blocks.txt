@@ -13,6 +13,12 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 gonsfw.com
+0.0.0.0 hothd.mobi
+0.0.0.0 btdaddy.com
+0.0.0.0 tuqpa.com
+0.0.0.0 broncs.net
+0.0.0.0 icq-trust.ru
 0.0.0.0 xvideo.mx
 0.0.0.0 flashxgirls.com
 0.0.0.0 sexynaked.me
