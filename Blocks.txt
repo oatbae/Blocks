@@ -13,6 +13,17 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 m.vk.com
+0.0.0.0 myhornytoad.com
+0.0.0.0 chinesesolo.com.es
+0.0.0.0 chinesesex.com.es
+0.0.0.0 91videos.com.es
+0.0.0.0 chinesepron.com.es
+0.0.0.0 iknowthatgirl.xyz
+0.0.0.0 91chinesesex.com.es
+0.0.0.0 xdbpics.com
+0.0.0.0 vz.18asiantube.xyz
+0.0.0.0 asianfever.xyz
 0.0.0.0 gonsfw.com
 0.0.0.0 hothd.mobi
 0.0.0.0 btdaddy.com
