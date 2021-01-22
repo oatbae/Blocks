@@ -13,6 +13,10 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 fapfappy.com
+0.0.0.0 pornmaster.cc
+0.0.0.0 amp.pornmaster.cc
+0.0.0.0 pornworld.to
 0.0.0.0 clipx.online
 0.0.0.0 pimpstudio.eu
 0.0.0.0 xcloudporn.com
