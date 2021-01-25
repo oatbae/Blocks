@@ -13,6 +13,24 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 canabis.biz
+0.0.0.0 clipsex.pw
+0.0.0.0 theslutbay.com
+0.0.0.0 i.redd.it
+0.0.0.0 old.reddit.com
+0.0.0.0 imgur.com
+0.0.0.0 i.imgur.com
+0.0.0.0 amateurs-gone-wild.me
+0.0.0.0 tumbex.com
+0.0.0.0 xhamsterwap.com
+0.0.0.0 videosleak.co
+0.0.0.0 sexclips.cc
+0.0.0.0 dirtyalbum.com
+0.0.0.0 xxxclipsex.com
+0.0.0.0 nudeleak.co
+0.0.0.0 greatclip.co
+0.0.0.0 redgifs.download
+0.0.0.0 2cross.ru
 0.0.0.0 fapfappy.com
 0.0.0.0 pornmaster.cc
 0.0.0.0 amp.pornmaster.cc
