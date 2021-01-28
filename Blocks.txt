@@ -13,6 +13,16 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 clipsex.vip
+0.0.0.0 clipsex.cc
+0.0.0.0 thedjeducation.com
+0.0.0.0 pornpicvip.com
+0.0.0.0 clipsexx.com
+0.0.0.0 clipsexusa.com
+0.0.0.0 evilx.su
+0.0.0.0 clipsex.best
+0.0.0.0 hotleaks.co
+0.0.0.0 rajwap.biz
 0.0.0.0 canabis.biz
 0.0.0.0 clipsex.pw
 0.0.0.0 theslutbay.com
