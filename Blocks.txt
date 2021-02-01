@@ -13,6 +13,30 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 javlogo.com
+0.0.0.0 rajwap.top
+0.0.0.0 yespornplease.fun
+0.0.0.0 pornotreat.com
+0.0.0.0 redwap.website
+0.0.0.0 gjpsoft.com
+0.0.0.0 easyporn.top
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
 0.0.0.0 clipsex.vip
 0.0.0.0 clipsex.cc
 0.0.0.0 thedjeducation.com
