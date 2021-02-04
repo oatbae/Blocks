@@ -20,23 +20,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 redwap.website
 0.0.0.0 gjpsoft.com
 0.0.0.0 easyporn.top
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
+0.0.0.0 sfdt.com
+0.0.0.0 ekg2.org
+0.0.0.0 yooneed.com
+0.0.0.0 atibt.com
+0.0.0.0 mevvy.com
+0.0.0.0 polybytes.com
+0.0.0.0 creativesoftworx.com
+0.0.0.0 linuxespanol.com
+0.0.0.0 thefrankfurtmajor.com
+0.0.0.0 archicool.com
+0.0.0.0 alias-media.com
 0.0.0.0 clipsex.vip
 0.0.0.0 clipsex.cc
 0.0.0.0 thedjeducation.com
