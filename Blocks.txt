@@ -13,6 +13,18 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 sharizel.com
+0.0.0.0 fabulousnudes.com
+0.0.0.0 coveranewcar.com
+0.0.0.0 famousfix.com
+0.0.0.0 eroticvideos.org
+0.0.0.0 glamgalleries.com
+0.0.0.0 nakedgymnasticsvideos.com
+0.0.0.0 porn-image.xxx-hardcore-sex.com
+0.0.0.0 www.tiava.global
+0.0.0.0 159.89.198.98
+0.0.0.0 http://159.89.198.98
+0.0.0.0 xxx.hdzoy.com
 0.0.0.0 javlogo.com
 0.0.0.0 rajwap.top
 0.0.0.0 yespornplease.fun
