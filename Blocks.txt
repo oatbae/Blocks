@@ -13,6 +13,10 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 hdvideosporn.net
+0.0.0.0 pornbado.com
+0.0.0.0 nameporn.net
+0.0.0.0 darknaija.com
 0.0.0.0 tube-xxxvideos.com
 0.0.0.0 free-xxx-fap.com
 0.0.0.0 bang-movies.com
