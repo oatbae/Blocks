@@ -13,6 +13,17 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 ecosia.org
+0.0.0.0 ekoru.org
+0.0.0.0 givewater.com
+0.0.0.0 onesearch.com
+0.0.0.0 searchencrypt.com
+0.0.0.0 nz.hubcityservices.com
+0.0.0.0 proxy-video.com
+0.0.0.0 startpage.com
+0.0.0.0 www.startpage.com
+0.0.0.0 mojeek.com
+0.0.0.0 www.mojeek.com
 0.0.0.0 hdvideosporn.net
 0.0.0.0 pornbado.com
 0.0.0.0 nameporn.net
