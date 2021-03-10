@@ -13,6 +13,17 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 9888av.com
+0.0.0.0 7787av.com
+0.0.0.0 4465av.com
+0.0.0.0 1155av.com
+0.0.0.0 2211av.com
+0.0.0.0 5511av.com
+0.0.0.0 tt1xx.com
+0.0.0.0 6611av.com
+0.0.0.0 1177av.com
+0.0.0.0 1144av.com
+0.0.0.0 1133av.com
 0.0.0.0 ecosia.org
 0.0.0.0 ekoru.org
 0.0.0.0 givewater.com
