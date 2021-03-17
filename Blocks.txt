@@ -13,6 +13,18 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 33ffkk.com
+0.0.0.0 22aapp.com
+0.0.0.0 22qqww.com
+0.0.0.0 22qqss.com
+0.0.0.0 22qqee.com
+0.0.0.0 22qqdd.com
+0.0.0.0 22jjrr.com
+0.0.0.0 66zzrr.com
+0.0.0.0 22qqaa.com
+0.0.0.0 22jjrr.com
+0.0.0.0 55aazz.com
+0.0.0.0 55jjss.com
 0.0.0.0 8twww.com
 0.0.0.0 68woo.com
 0.0.0.0 av1133.com
