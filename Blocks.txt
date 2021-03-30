@@ -13,6 +13,10 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 fapfree.net
+0.0.0.0 sogou.com
+0.0.0.0 soso.com
+0.0.0.0 youdbox.com
 0.0.0.0 av69a.com
 0.0.0.0 av69b.com
 0.0.0.0 av69c.com
