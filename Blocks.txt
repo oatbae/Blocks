@@ -13,6 +13,13 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 torrent2021.xyz
+0.0.0.0 unblocktorrent.icu
+0.0.0.0 123unblock.work
+0.0.0.0 tubeproxy.icu
+0.0.0.0 unbl4you.casa
+0.0.0.0 croxyproxy.com
+0.0.0.0 joomdesk.surf
 0.0.0.0 fapfree.net
 0.0.0.0 sogou.com
 0.0.0.0 soso.com
