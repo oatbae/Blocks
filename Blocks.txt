@@ -46,6 +46,28 @@ ripple.org
 netscape.com
 groovle.com
 bol.com.br
+yongzin.com
+walla.co.il
+seznam.cz
+sesam.no
+sesam.se
+search.ch
+sapo.pt
+sapo.cv
+sapo.ao
+sapo.mz
+sapo.tl
+rediff.com
+rambler.ru
+pipilika.com
+naver.com
+najdi.si
+miner.hu
+en-maktoob.yahoo.com
+leit.is
+search.is
+goo.ne.jp
+fireball.com
 
 0.0.0.0 torrent2021.xyz
 0.0.0.0 unblocktorrent.icu
