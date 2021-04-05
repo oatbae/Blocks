@@ -13,6 +13,40 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+ask.com
+dogpile.com
+duckduckgo.com
+ecosia.org
+excite.com
+excite.co.jp
+excite.it
+gigablast.com
+hotbot.com
+lycos.com
+metacrawler.com
+qwant.com
+searx.me
+startpage.com
+swisscows.com
+webcrawler.com
+yandex.com
+yandex.ru
+yandex.pl
+yippy.com
+youdao.com
+teoma.com
+msdewey.com
+egerin.com
+ciao.co.uk
+alexa.com
+aol.com
+a9.com
+yahoo.co.jp
+ripple.org
+netscape.com
+groovle.com
+bol.com.br
+
 0.0.0.0 torrent2021.xyz
 0.0.0.0 unblocktorrent.icu
 0.0.0.0 123unblock.work
