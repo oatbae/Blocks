@@ -13,62 +13,68 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-ask.com
-dogpile.com
-duckduckgo.com
-ecosia.org
-excite.com
-excite.co.jp
-excite.it
-gigablast.com
-hotbot.com
-lycos.com
-metacrawler.com
-qwant.com
-searx.me
-startpage.com
-swisscows.com
-webcrawler.com
-yandex.com
-yandex.ru
-yandex.pl
-yippy.com
-youdao.com
-teoma.com
-msdewey.com
-egerin.com
-ciao.co.uk
-alexa.com
-aol.com
-a9.com
-yahoo.co.jp
-ripple.org
-netscape.com
-groovle.com
-bol.com.br
-yongzin.com
-walla.co.il
-seznam.cz
-sesam.no
-sesam.se
-search.ch
-sapo.pt
-sapo.cv
-sapo.ao
-sapo.mz
-sapo.tl
-rediff.com
-rambler.ru
-pipilika.com
-naver.com
-najdi.si
-miner.hu
-en-maktoob.yahoo.com
-leit.is
-search.is
-goo.ne.jp
-fireball.com
-
+0.0.0.0 ask.com
+0.0.0.0 duckduckgo.com
+0.0.0.0 excite.com
+0.0.0.0 excite.co.jp
+0.0.0.0 excite.it
+0.0.0.0 gigablast.com
+0.0.0.0 hotbot.com
+0.0.0.0 lycos.com
+0.0.0.0 metacrawler.com
+0.0.0.0 qwant.com
+0.0.0.0 searx.me
+0.0.0.0 swisscows.com
+0.0.0.0 webcrawler.com
+0.0.0.0 yandex.com
+0.0.0.0 yandex.ru
+0.0.0.0 yandex.pl
+0.0.0.0 yippy.com
+0.0.0.0 youdao.com
+0.0.0.0 teoma.com
+0.0.0.0 msdewey.com
+0.0.0.0 egerin.com
+0.0.0.0 ciao.co.uk
+0.0.0.0 alexa.com
+0.0.0.0 aol.com
+0.0.0.0 a9.com
+0.0.0.0 yahoo.co.jp
+0.0.0.0 ripple.org
+0.0.0.0 netscape.com
+0.0.0.0 groovle.com
+0.0.0.0 bol.com.br
+0.0.0.0 yongzin.com
+0.0.0.0 walla.co.il
+0.0.0.0 seznam.cz
+0.0.0.0 sesam.no
+0.0.0.0 sesam.se
+0.0.0.0 search.ch
+0.0.0.0 sapo.pt
+0.0.0.0 sapo.cv
+0.0.0.0 sapo.ao
+0.0.0.0 sapo.mz
+0.0.0.0 sapo.tl
+0.0.0.0 rediff.com
+0.0.0.0 rambler.ru
+0.0.0.0 pipilika.com
+0.0.0.0 naver.com
+0.0.0.0 najdi.si
+0.0.0.0 miner.hu
+0.0.0.0 en-maktoob.yahoo.com
+0.0.0.0 leit.is
+0.0.0.0 search.is
+0.0.0.0 goo.ne.jp
+0.0.0.0 fireball.com
+0.0.0.0 seeqpod.com
+0.0.0.0 empora.com
+0.0.0.0 picsearch.com
+0.0.0.0 skyscanner.net
+0.0.0.0 metager.org
+0.0.0.0 info.com
+0.0.0.0 yacy.net
+0.0.0.0 privacywall.org
+0.0.0.0 yebol.com
+0.0.0.0 searchteam.com
 0.0.0.0 torrent2021.xyz
 0.0.0.0 unblocktorrent.icu
 0.0.0.0 123unblock.work
