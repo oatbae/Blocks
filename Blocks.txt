@@ -13,23 +13,47 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-
-xvideosus.com
-xvideosjapanese.com
-xvideoschinese.com
-xvideoses.com
-xvideosfrancais.com
-xvideosdeutsche.com
-xvideosboys.com
-web.archive.org
-searchftps.net
-aiohotiegirls.com
-paulgerni.com
-3movs.stream
-youngchinese.com.es
-xvideoschinese.com.es
-searx.space
-searx.prvcy.eu
+0.0.0.0 redwap.vip
+0.0.0.0 xxk.mobi
+0.0.0.0 bigindiansex.mobi
+0.0.0.0 91guoys.com
+0.0.0.0 cmm702.xyz
+0.0.0.0 ckss5.com
+0.0.0.0 1145av.com
+0.0.0.0 wyyc888.com
+0.0.0.0 qzav.de
+0.0.0.0 zuocbaan.com
+0.0.0.0 teencamslive.xyz
+0.0.0.0 changtnsbcao.com
+0.0.0.0 qjxiang55.com
+0.0.0.0 jxdxy.com
+0.0.0.0 yujiejxxs.com
+0.0.0.0 sirenndzhi.com
+0.0.0.0 papatv7.com
+0.0.0.0 fumoxxshi.com
+0.0.0.0 cherrydrilled.com
+0.0.0.0 139yes.net
+0.0.0.0 sex.hayhd.net
+0.0.0.0 070tt.com
+0.0.0.0 eruptionxl.net
+0.0.0.0 739755.com
+0.0.0.0 laugharena.com
+0.0.0.0 xvideosus.com
+0.0.0.0 xvideosjapanese.com
+0.0.0.0 xvideoschinese.com
+0.0.0.0 xvideoses.com
+0.0.0.0 xvideosfrancais.com
+0.0.0.0 xvideosdeutsche.com
+0.0.0.0 xvideosboys.com
+0.0.0.0 web.archive.org
+0.0.0.0 searchftps.net
+0.0.0.0 aiohotiegirls.com
+0.0.0.0 paulgerni.com
+0.0.0.0 3movs.stream
+0.0.0.0 youngchinese.com.es
+0.0.0.0 xvideoschinese.com.es
+0.0.0.0 searx.space
+0.0.0.0 searx.prvcy.eu
 searx.simonoener.com
 anon.sx
 searx.bar
