@@ -13,6 +13,21 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 lovetits.vip
+0.0.0.0 dankwank.net
+0.0.0.0 xvideos-com.xyz
+0.0.0.0 mystripper.pro
+0.0.0.0 anonfiles.com
+0.0.0.0 anonib.archivedyou.com
+0.0.0.0 redtubecom.mobi
+0.0.0.0 xvedio.mobi
+0.0.0.0 publicflashing.forumotion.com
+0.0.0.0 xvideoshd.com.mx
+0.0.0.0 newsexmodels.com
+0.0.0.0 sneakyvoyeur.com
+0.0.0.0 boulx.com
+0.0.0.0 tubegalore.uno
+0.0.0.0 redwap.mx
 0.0.0.0 redwap.vip
 0.0.0.0 xxk.mobi
 0.0.0.0 bigindiansex.mobi
