@@ -13,6 +13,8 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 2249av.com
+0.0.0.0 3313av.com
 0.0.0.0 lovetits.vip
 0.0.0.0 dankwank.net
 0.0.0.0 xvideos-com.xyz
