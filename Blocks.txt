@@ -21,6 +21,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 1184av.com
 0.0.0.0 3317av.com
 0.0.0.0 roshy.tv
+0.0.0.0 roshy.in
 0.0.0.0 booba.tv
 0.0.0.0 av9274.com
 0.0.0.0 av1184.com
